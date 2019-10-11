@@ -1,0 +1,54 @@
+*{
+  margin:0px
+}
+
+html, body{
+  height: 100%;
+  background-color: #8C8A89;
+  font-family: 'Turret Road', cursive;
+  color:#201E50;
+
+}
+
+
+.container{
+  width: 500px;
+  background-color: #55DDE0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  box-shadow: 25px 20px 6px -4px #201E50;
+
+}
+
+header{
+  height: 150px;
+  background-color:#33658A;
+  border-bottom-color:#201E50;
+  border-bottom-style: solid;
+  border-width: 5px;
+}
+header h1{
+padding: 30px;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18, 20px 10px 2px rgba(48,57,206,0);
+}
+#hacker{
+  height: 140px;
+  display:inline-block;
+  float: right;
+  border-width:5px;
+  border-color: #000000;
+  border-style: solid;
+
+}
+main{
+  padding: 30px;
+
+}
+iframe{
+margin-top:20px;
+margin-left: auto;
+margin-right: auto;
+display:block;
+margin-bottom: 0px
+}
